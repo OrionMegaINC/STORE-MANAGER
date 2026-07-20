@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.orionmegainc.mystoremanager",
+      "sha256_cert_fingerprints": [
+        "27:44:80:A1:1E:0F:50:60:FB:FD:05:F0:55:E1:CD:1C:93:5A:24:17:BA:D6:2D:45:75:37:97:68:B6:2E:C8:81"
+      ]
+    }
+  }
+]
